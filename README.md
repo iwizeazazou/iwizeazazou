@@ -2,7 +2,6 @@
 
 - 📫 How to reach me elkebch.fe@gmail.com
 - ⚡ Fun fact: i like knitting and crocheting also Chess
-- 😄 Pronouns: she/her
 
 <!---
 iwizeazazou/iwizeazazou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
